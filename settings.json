@@ -2,7 +2,7 @@
     "window.zoomLevel": 1,
     "discord.enabled": true,
     "workbench.colorTheme": "Min Dark",
-    "editor.fontWeight": "400",
+    "editor.fontWeight": "500",
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
     "editor.fontFamily": "JetBrains Mono",
