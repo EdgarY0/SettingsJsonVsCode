@@ -21,7 +21,7 @@
     "editor.scrollbar.vertical": "hidden",
     "workbench.statusBar.visible": false,
     "workbench.layoutControl.enabled": false,
-    "window.titleBarStyle": "native",
+    "window.titleBarStyle": "custom",
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.fontFamily": "JetBrains Mono",
     "workbench.editor.enablePreview": false,
