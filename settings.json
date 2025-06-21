@@ -18,8 +18,8 @@
     "workbench.statusBar.visible": false,
     "workbench.layoutControl.enabled": false,
     "window.titleBarStyle": "custom",
-    "terminal.integrated.fontSize": 12,
-    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.fontWeight": "500",
     "workbench.editor.enablePreview": false,
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorBlinking": "expand",
@@ -29,4 +29,5 @@
     "explorer.fileNesting.enabled": true,
     "workbench.editor.showTabs": "multiple",
     "workbench.colorTheme": "Min Dark",
+    "editor.cursorStyle": "block",
 }
