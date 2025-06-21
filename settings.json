@@ -1,11 +1,7 @@
 {
     "window.zoomLevel": 1,
     "discord.enabled": true,
-    "workbench.colorTheme": "Min Dark",
     "editor.fontWeight": "500",
-    "symbols.hidesExplorerArrows": false,
-    "workbench.iconTheme": "symbols",
-    "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
     "workbench.startupEditor": "newUntitledFile",
@@ -31,4 +27,5 @@
     "window.menuBarVisibility": "compact",
     "workbench.navigationControl.enabled": false,
     "explorer.fileNesting.enabled": true,
+    "workbench.editor.showTabs": "multiple",
 }
