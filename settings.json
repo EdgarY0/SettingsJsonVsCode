@@ -28,4 +28,5 @@
     "workbench.navigationControl.enabled": false,
     "explorer.fileNesting.enabled": true,
     "workbench.editor.showTabs": "multiple",
+    "workbench.colorTheme": "Min Dark",
 }
